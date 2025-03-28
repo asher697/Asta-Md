@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Bot Owner",
-      "value": "Astro"
+      "value": "Ashera"
   },
  "HEROKU_API_KEY": {
     "description": "Your Heroku Api Key",
@@ -25,10 +25,10 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-           "value": "2348039607375"
+           "value": "263786484652"
       },
        "SESSION_ID": {
-        "description": "SESSION_ID."
+        "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=qn5CTCqZ#ogwMdfrH0Q0UjAkGaDAhadUyckqB4z2cWvnpF2dNuW0"
       },
       "THUMB_IMAGE": {
         "description": "Image for bot.",
